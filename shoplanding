@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>water</title>
+</head>
+
+<h1> Water </h1>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#aquafina">Aquafina</a></li>
+            <li><a href="#fiji">Fiji</a></li>
+            <li><a href="#voss">Voss</a></li>
+        </ul>
+    </nav>
+
+    <table>
+        <tr>
+            <td><a  id="aquafina" href="shopitem1.html"><img id="img1" src="aquafina.webp" alt="Aquafina Water" ></a><br>Price: $50.00 <br> </td> 
+</tr>
+<tr>
+
+            <td><a    id="fiji" href="shopitem2.html"><img id="img1" src="fiji.webp" alt="Fiji Water"></a><br>Price: $60.00</td>
+</tr>
+<tr>
+            <td><a id="voss"href="shopitem3.html"><img id="img1" src="voss.webp" alt="Voss Water"></a><br>Price: $70.00</td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
+
+
